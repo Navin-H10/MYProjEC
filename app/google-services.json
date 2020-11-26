@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825706488117",
+    "firebase_url": "https://evc-proj-d177a.firebaseio.com",
+    "project_id": "evc-proj-d177a",
+    "storage_bucket": "evc-proj-d177a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825706488117:android:56a37926c090fd2c476c7c",
+        "android_client_info": {
+          "package_name": "com.smallacademy.userroles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825706488117-n1m1slpisf25f93lj258s7nqfa9h71ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmeW_f_9NP01Cpk9ShF1AujDxcURa2P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825706488117-n1m1slpisf25f93lj258s7nqfa9h71ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
